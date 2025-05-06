@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# data
+*.csv
+
+# mac
+.DS_Store
+*.parquet/
+
+# trash
+*.Trash*
